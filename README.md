@@ -2,7 +2,7 @@
  
 
 ### Datasets used for project:
-https://www.kaggle.com/datasets/jfreyberg/spotify-chart-data
+https://www.kaggle.com/datasets/jfreyberg/spotify-chart-data <br>
 https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
 
 
